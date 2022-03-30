@@ -1,5 +1,6 @@
 public enum License {
     FREE,
     PRO,
-    ENTERPRISE
+    ENTERPRISE,
+    PRO_ENTERPTIS
 }
