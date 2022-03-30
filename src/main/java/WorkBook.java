@@ -36,6 +36,8 @@ public class WorkBook {
         this.surname = surname;
     }
 
+    // some comment
+
     private int sum(int value) {
         return value * 2;
     }
