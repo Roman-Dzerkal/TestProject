@@ -37,6 +37,7 @@ public class WorkBook {
     }
 
     // some comment
+    // some comment
 
     private int sum(int value) {
         return value * 2;
